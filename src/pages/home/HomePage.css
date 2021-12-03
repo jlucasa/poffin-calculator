@@ -1,0 +1,26 @@
+/* .home-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+} */
+
+.berry-img {
+    width: 50%;
+    height: 50%;
+}
+
+.table-cell {
+    display: inline-block;
+    flex-direction: row;
+    align-items: center;
+}
+
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
